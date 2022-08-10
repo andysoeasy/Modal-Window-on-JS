@@ -1,2 +1,2 @@
 # Modal-Window-on-JS
-init
+Реализация модального окна на чистом JavaScript с подключением стилей bootstrap.
